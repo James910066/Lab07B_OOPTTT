@@ -56,9 +56,4 @@ public class GameControl extends JFrame
         gameBoard.clearBoard();
         setVisible(true);
     }
-
-    public static void main(String[] args)
-    {
-        new GameControl();
-    }
 }
